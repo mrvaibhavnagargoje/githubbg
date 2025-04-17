@@ -1,12 +1,13 @@
-<!-- Typing SVG Banner -->
+<!-- Typing SVG Banner with Black Color -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFE4&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vaibhav+Nagargoje;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Angular+%7C+PHP;Welcome+to+my+GitHub+space+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B+I'm+Vaibhav+Nagargoje;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Angular+%7C+PHP;Welcome+to+my+GitHub+space+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+<!-- 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="130" />
+</p>
+ -->
 
-<!-- Coding Wave GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="130" />
-</p>
 
 <!-- Intro Heading with style -->
 <h1 align="center">
@@ -29,7 +30,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Full Stack Developer Intern** at **SETTribe IT Solution, Pune**
+- 🎓 B.sc. in Computer Science
+- 👨‍💻 Currently working as a **Full Stack Developer Intern** at **SETTribe IT Solution, Pune**
 - 🌱 Learning **Next.js**, **TypeScript**, and advanced **backend architecture**
 - 🧠 Love crafting **scalable solutions** and tackling **real-world tech problems**
 - 🎯 My Goals: Dream job 👨‍💻 | Dream home 🏠 | Dream life with my ... 💍 | Make my parents smile every day ❤️
@@ -73,11 +75,11 @@
 
 ## 🧠 Projects
 
-- 🔗 **[Modern Hub E-commerce](#)** – MERN stack e-commerce with PayPal integration, admin panel, and Cloudinary image uploads
-- 🔗 **[Weather App](#)** – Built with React + TypeScript + TanStack Query + ShadCN UI
-- 🔗 **[PhotoWipe](#)** – Background remover using third-party API
-- 🔗 **[Dynamic Placement Portal](#)** – Final year college project using HTML, CSS, PHP & SQL
-- 🔗 **[Quiz Management System](#)** – Role-based (admin, creator, reviewer) quiz platform with PHP, JS, and MySQL
+- 🛒 **[Modern Hub E-commerce](#)** – MERN stack e-commerce with PayPal integration, admin panel, and Cloudinary image uploads
+- 🌤️ **[Weather App](#)** – Built with React + TypeScript + TanStack Query + ShadCN UI
+- 🧼 **[PhotoWipe](#)** – Background remover using third-party API
+- 🎓 **[Dynamic Placement Portal](#)** – Final year college project using HTML, CSS, PHP & SQL
+- 📝 **[Quiz Management System](#)** – Role-based (admin, creator, reviewer) quiz platform with PHP, JS, and MySQL
 
 ---
 
